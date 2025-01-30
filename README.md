@@ -9,8 +9,6 @@
 
 ## 🙋‍♂️ About me
 
-![profile view count](https://komarev.com/ghpvc/?username=mostafaramadan1)
-
 I'm from Cairo, Egypt 🇪🇬, living in the heart of a city full of history and energy 🌍.  
 I'm a Backend Developer with a passion for Angular, clean architecture, and writing scalable, testable software 💻.  
 When I'm not crafting APIs or optimizing performance, you can find me playing football ⚽, hitting the gym 🏋️, or swimming 🏊‍♂️.  
