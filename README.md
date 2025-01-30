@@ -12,10 +12,12 @@ I’m always eager to learn, build, and collaborate on exciting projects! 🚀
 
 
 ## 🔭 I'm currently working on
-- Building scalable .NET APIs with clean architecture 
-[<img style="margin-left: 6.5px" src="wdh-logo.png" alt="bugsplat slingshot" height="150px">]
-(https://github.com/workingdevshero)
 
+- Building robust APIs using **.NET Core**  
+- Improving my skills in **microservices architecture**
+ 
+[<img style="margin-left: 6.5px" src="wdh-logo.png" alt="bugsplat slingshot" height="150px">]
+  
   <p align="left"> 
     <a href="https://www.linkedin.com/in/mostafaramadan1/">
       <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
