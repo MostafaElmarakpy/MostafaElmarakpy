@@ -1,23 +1,20 @@
 ## Hi there 👋, my name is Mostafa Ramadan
 
-<h2 align="center">Software Engineer | .NET Developer</h2>
+<!-- <h2 align="center">Software Engineer | .NET Developer</h2> -->
 
-  <p align="center"> <!-- Google Me -->
-    <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=20">
+  <p align="center"> 
+      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&pause=1500&color=FF5733&background=FFFFFF00&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Welcome+to+the+Working+Dev's+Hero+%F0%9F%9A%80++;I'm+a+Backend+Developer">
   </p>
 
 ## 🙋‍♂️ About me
-
-I'm from Cairo, Egypt 🇪🇬, living in the heart of a city full of history and energy 🌍.  
+I'm from Cairo, Egypt 🇪🇬 🌍.  
 I'm a Backend Developer with a passion for Angular, clean architecture, and writing scalable, testable software 💻.  
 When I'm not crafting APIs or optimizing performance, you can find me playing football ⚽, hitting the gym 🏋️, or swimming 🏊‍♂️.  
 I’m always eager to learn, build, and collaborate on exciting projects! 🚀  
 
 
 ## 🔭 I'm currently working on
-- Building scalable .NET APIs with clean architecture
-- 
+- Building scalable .NET APIs with clean architecture 
 [<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]
 (https://github.com/workingdevshero)
 
