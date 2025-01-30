@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Mostafa Ramadan </h1>
+## Hi there 👋, my name is Mostafa Ramadan
 
 <h2 align="center">Software Engineer | .NET Developer</h2>
 
@@ -7,7 +7,21 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=20">
   </p>
 
+## 🙋‍♂️ About me
 
+![profile view count](https://komarev.com/ghpvc/?username=mostafaramadan1)
+
+I'm from Cairo, Egypt 🇪🇬, living in the heart of a city full of history and energy 🌍.  
+I'm a Backend Developer with a passion for Angular, clean architecture, and writing scalable, testable software 💻.  
+When I'm not crafting APIs or optimizing performance, you can find me playing football ⚽, hitting the gym 🏋️, or swimming 🏊‍♂️.  
+I’m always eager to learn, build, and collaborate on exciting projects! 🚀  
+
+
+## 🔭 I'm currently working on
+- Building scalable .NET APIs with clean architecture
+- 
+[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]
+(https://github.com/workingdevshero)
 
   <p align="left"> 
     <a href="https://www.linkedin.com/in/mostafaramadan1/">
