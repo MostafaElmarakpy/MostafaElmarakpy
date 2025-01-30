@@ -13,7 +13,7 @@ I’m always eager to learn, build, and collaborate on exciting projects! 🚀
 
 ## 🔭 I'm currently working on
 - Building scalable .NET APIs with clean architecture 
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]
+[<img style="margin-left: 6.5px" src="wdh-logo.png" alt="bugsplat slingshot" height="150px">]
 (https://github.com/workingdevshero)
 
   <p align="left"> 
