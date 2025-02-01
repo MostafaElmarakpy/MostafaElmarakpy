@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Mostafa Ramadan
+<h1 align="center">Hi, I'm Mostafa 👋</h1> 
 
   <p align="center"> 
       <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&pause=1500&color=FF5733&background=FFFFFF00&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Welcome+to+the+Working+Dev's+Hero+%F0%9F%9A%80++;I'm+a+Backend+Developer">
@@ -35,3 +35,12 @@ I’m always eager to learn, build, and collaborate on exciting projects! 🚀
     <a/> <!-- Snake -->
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
+
+  <h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/mostafaramadan1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://wa.me/01003597361" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/mostafa_ramadan177/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:mostafaelmarakpy1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
