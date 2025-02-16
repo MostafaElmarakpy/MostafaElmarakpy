@@ -36,13 +36,13 @@ I’m always eager to learn, build, and collaborate on exciting projects! 🚀
 
 
 <!--<h3 align="left">🛠️ Languages & Tools:</h3>-->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 <br>
   
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=11"/>
+<!--     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=11"/> -->
   </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
   
   <p align="left">
