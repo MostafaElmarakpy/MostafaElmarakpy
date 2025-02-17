@@ -24,7 +24,7 @@
 <br>
   
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow,azure,docker,kubernetes,mysql,redis,linux&perline=8"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
