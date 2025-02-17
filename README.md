@@ -4,15 +4,15 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70484&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Welcome+to+the+Working+Dev's+Hero+%F0%9F%9A%80++;I'm+a+Backend+Developer">
   </p>
 
-## <img src = "https://vectorified.com/images/about-me-icon-png-19.png" width =25px> **About me**
+## <img src = "https://vectorified.com/images/about-me-icon-png-19.png" width =25px> *About me*
 - I'm from Cairo, Egypt 🇪🇬 🌍.  
 I'm a Backend Developer with a passion for Angular, clean architecture, and writing scalable, testable software 💻.  
-When I'm not crafting APIs or optimizing performance, you can find me playing football ⚽, hitting the gym 🏋️
+When I'm not crafting APIs or optimizing performance, you can find me playing football ⚽, hitting the gym 🏋
 I’m always eager to learn, build, and collaborate on exciting projects! 🚀  
 <br><br>
 
 
-<!--<h3 align="left">🛠️ Languages & Tools:</h3>-->
+<!--<h3 align="left">🛠 Languages & Tools:</h3>-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
   
@@ -24,8 +24,8 @@ I’m always eager to learn, build, and collaborate on exciting projects! 🚀
 
 ## 🔭 I'm currently working on
 
-- Building robust APIs using **.NET Core**  
-- Improving my skills in **microservices architecture**
+- Building robust APIs using *.NET Core*  
+- Improving my skills in *microservices architecture*
  
 [<img style="margin-left: 6.5px" src="wdh-logo.png" alt="bugsplat slingshot" height="150px">]
   
@@ -35,7 +35,7 @@ I’m always eager to learn, build, and collaborate on exciting projects! 🚀
   </p>
 
 
-<!--<h3 align="left">🛠️ Languages & Tools:</h3>-->
+<!--<h3 align="left">🛠 Languages & Tools:</h3>-->
 
 <br>
   
@@ -54,8 +54,8 @@ I’m always eager to learn, build, and collaborate on exciting projects! 🚀
   <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/mostafaramadan1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://wa.me/01003597361" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/mostafa_ramadan177/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:mostafaelmarakpy1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/mostafaramadan1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  <a href="https://wa.me/01003597361" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>  
+  <a href="https://www.instagram.com/mostafa_ramadan177/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+  <a href="mailto:mostafaelmarakpy1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
