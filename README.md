@@ -5,10 +5,10 @@
   </p>
 
 ## <img src = "https://vectorified.com/images/about-me-icon-png-19.png" width =25px> *About me*
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="370" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <br> - I'm from Cairo, Egypt 🇪🇬 🌍.  
-<br> - I'm a Backend Developer with a passion for Angular, clean architecture, and writing scalable, testable software 💻.  
-<br> - When I'm not crafting APIs or optimizing performance, you can find me <br> playing football ⚽, hitting the gym 🏋
+<br> - I'm a Backend Developer passionate about Angular, <br>clean architecture, and writing scalable, testable software 💻.  
+<br> - When I'm not crafting APIs or optimizing performance, <br>you can find me  playing football ⚽, hitting the gym 🏋
 <br> - I’m always eager to learn, build, and collaborate on exciting projects! 🚀  
 <br>
 
